@@ -31,8 +31,8 @@ void seta() {
     alphabet[0].b6 = 1;
 
     alphabet[0].b7 = 0;
-    alphabet[0].b8 = 1;
-    alphabet[0].b9 = 0;
+    alphabet[0].b8 = 0;
+    alphabet[0].b9 = 1;
     alphabet[0].b10 = 0;
     alphabet[0].b11 = 0;
     alphabet[0].b12 = 0;
@@ -40,17 +40,17 @@ void seta() {
 
     alphabet[0].b14 = 0;
     alphabet[0].b15 = 0;
-    alphabet[0].b16 = 1;
-    alphabet[0].b17 = 0;
+    alphabet[0].b16 = 0;
+    alphabet[0].b17 = 1;
     alphabet[0].b18 = 0;
     alphabet[0].b19 = 0;
     alphabet[0].b20 = 0;
 
     alphabet[0].b21 = 0;
-    alphabet[0].b22 = 1;
+    alphabet[0].b22 = 0;
     alphabet[0].b23 = 0;
     alphabet[0].b24 = 0;
-    alphabet[0].b25 = 0;
+    alphabet[0].b25 = 1;
     alphabet[0].b26 = 0;
     alphabet[0].b27 = 0;
     

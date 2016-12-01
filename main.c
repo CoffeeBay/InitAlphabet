@@ -56,11 +56,47 @@ void seta() {
 
 
 
+//O
+void setO() {   
+    alphabet[43].b0 = 0;
+    alphabet[43].b1 = 1;
+    alphabet[43].b2 = 1;	
+    alphabet[43].b3 = 1;	
+    alphabet[43].b4 = 1;	
+    alphabet[43].b5 = 1;	
+    alphabet[43].b6 = 0;	
+ 
+    alphabet[43].b7 = 1;	
+    alphabet[43].b8 = 0;	
+    alphabet[43].b9 = 0;	
+    alphabet[43].b10 = 0;	
+    alphabet[43].b11 = 0;	
+    alphabet[43].b12 = 0;	
+    alphabet[43].b13 = 1;	
+    
+    alphabet[43].b14 = 1;	
+    alphabet[43].b15 = 0;	
+    alphabet[43].b16 = 0;	
+    alphabet[43].b17 = 0;	
+    alphabet[43].b18 = 0;	
+    alphabet[43].b19 = 0;	
+    alphabet[43].b20 = 1;	
+    
+    alphabet[43].b21 = 0;	
+    alphabet[43].b22 = 1;	
+    alphabet[43].b23 = 1;	
+    alphabet[43].b24 = 1;	
+    alphabet[43].b25 = 1;	
+    alphabet[43].b26 = 1;	
+    alphabet[43].b27 = 0;	
+}
 
 
 
 
-void printAlphabet(Alphabet a) {
+
+
+void printAlphabet(Alphabet O) {
     int i, j;
     printf("%c", (a.b0 ? '*': ' '));
     printf("%c", (a.b7 ? '*': ' '));
@@ -104,4 +140,6 @@ void printAlphabet(Alphabet a) {
     printf("%c", (a.b27 ? '*': ' '));
     printf("\n");
 }
+
+
 

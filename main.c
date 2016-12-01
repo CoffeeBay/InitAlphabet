@@ -185,6 +185,110 @@ void setS() {
     alphabet[45].b34 = 0;
 }
 
+//T
+void setT() {
+    alphabet[46].b0 = 1;
+    alphabet[46].b1 = 0;
+    alphabet[46].b2 = 0;
+    alphabet[46].b3 = 0;
+    alphabet[46].b4 = 0;
+    alphabet[46].b5 = 0;
+    alphabet[46].b6 = 0;
+
+    alphabet[46].b7 = 1;
+    alphabet[46].b8 = 0;
+    alphabet[46].b9 = 0;
+    alphabet[46].b10 = 0;
+    alphabet[46].b11 = 0;
+    alphabet[46].b12 = 0;
+    alphabet[46].b13 = 0;
+
+    alphabet[46].b14 = 1;
+    alphabet[46].b15 = 1;
+    alphabet[46].b16 = 1;
+    alphabet[46].b17 = 1;
+    alphabet[46].b18 = 1;
+    alphabet[46].b19 = 1;
+    alphabet[46].b20 = 1;
+
+    alphabet[46].b21 = 1;
+    alphabet[46].b22 = 0;
+    alphabet[46].b23 = 0;
+    alphabet[46].b24 = 0;
+    alphabet[46].b25 = 0;
+    alphabet[46].b26 = 0;
+    alphabet[46].b27 = 0;
+
+    alphabet[46].b28 = 1;
+    alphabet[46].b29 = 0;
+    alphabet[46].b30 = 0;
+    alphabet[46].b31 = 0;
+    alphabet[46].b32 = 0;
+    alphabet[46].b33 = 0;
+    alphabet[46].b34 = 0;
+}
+
+//U
+void setU() {
+    alphabet[47].b0 = 1;
+    alphabet[47].b1 = 1;
+    alphabet[47].b2 = 1;
+    alphabet[47].b3 = 1;
+    alphabet[47].b4 = 1;
+    alphabet[47].b5 = 1;
+    alphabet[47].b6 = 0;
+
+    alphabet[47].b7 = 0;
+    alphabet[47].b8 = 0;
+    alphabet[47].b9 = 0;
+    alphabet[47].b10 = 0;
+    alphabet[47].b11 = 0;
+    alphabet[47].b12 = 1;
+    alphabet[47].b13 = 1;
+
+    alphabet[47].b14 = 0;
+    alphabet[47].b15 = 0;
+    alphabet[47].b16 = 0;
+    alphabet[47].b17 = 0;
+    alphabet[47].b18 = 0;
+    alphabet[47].b19 = 1;
+    alphabet[47].b20 = 1;
+
+    alphabet[47].b21 = 0;
+    alphabet[47].b22 = 0;
+    alphabet[47].b23 = 0;
+    alphabet[47].b24 = 0;
+    alphabet[47].b25 = 0;
+    alphabet[47].b26 = 1;
+    alphabet[47].b27 = 1;
+
+    alphabet[47].b28 = 1;
+    alphabet[47].b29 = 1;
+    alphabet[47].b30 = 1;
+    alphabet[47].b31 = 1;
+    alphabet[47].b32 = 1;
+    alphabet[47].b33 = 1;
+    alphabet[47].b34 = 0;
+}
+
+//V
+void setV() {
+    alphabet[48].b0 = 1;
+}
+
+//W
+void setW() {
+    alphabet[49].b0 = 1;
+}
+
+//Y
+void setY() {
+    alphabet[51].b0 = 1;
+}
+//Z
+void setZ() {
+    alphabet[52].b0 = 1;
+}
 
 void printAlphabet(Alphabet O) {
     int i, j;

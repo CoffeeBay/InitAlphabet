@@ -83,18 +83,64 @@ void setO() {
     alphabet[43].b19 = 0;	
     alphabet[43].b20 = 1;	
     
-    alphabet[43].b21 = 0;	
-    alphabet[43].b22 = 1;	
-    alphabet[43].b23 = 1;	
-    alphabet[43].b24 = 1;	
-    alphabet[43].b25 = 1;	
-    alphabet[43].b26 = 1;	
-    alphabet[43].b27 = 0;	
+    alphabet[43].b21 = 1;	
+    alphabet[43].b22 = 0;	
+    alphabet[43].b23 = 0;	
+    alphabet[43].b24 = 0;	
+    alphabet[43].b25 = 0;	
+    alphabet[43].b26 = 0;	
+    alphabet[43].b27 = 1;	
+    
+    alphabet[43].b28 = 0;	
+    alphabet[43].b29 = 1;	
+    alphabet[43].b30 = 1;	
+    alphabet[43].b31 = 1;	
+    alphabet[43].b32 = 1;	
+    alphabet[43].b33 = 1;	
+    alphabet[43].b34 = 0;	
 }
 
+void setP() {
+    alphabet[44].b0 = 1;
+    alphabet[44].b1 = 1;
+    alphabet[44].b2 = 1;
+    alphabet[44].b3 = 1;
+    alphabet[44].b4 = 1;
+    alphabet[44].b5 = 1;
+    alphabet[44].b6 = 1;
 
+    alphabet[44].b7 = 1;
+    alphabet[44].b8 = 0;
+    alphabet[44].b9 = 0;
+    alphabet[44].b10 = 1;
+    alphabet[44].b11 = 0;
+    alphabet[44].b12 = 0;
+    alphabet[44].b13 = 0;
 
-
+    alphabet[44].b14 = 1;
+    alphabet[44].b15 = 0;
+    alphabet[44].b16 = 0;
+    alphabet[44].b17 = 1;
+    alphabet[44].b18 = 0;
+    alphabet[44].b19 = 0;
+    alphabet[44].b20 = 0;
+    
+    alphabet[44].b21 = 1;
+    alphabet[44].b22 = 0;
+    alphabet[44].b23 = 0;
+    alphabet[44].b24 = 1;
+    alphabet[44].b25 = 0;
+    alphabet[44].b26 = 0;
+    alphabet[44].b27 = 0;
+    
+    alphabet[44].b28 = 0;
+    alphabet[44].b29 = 1;
+    alphabet[44].b30 = 1;
+    alphabet[44].b31 = 0;
+    alphabet[44].b32 = 0;
+    alphabet[44].b33 = 0;
+    alphabet[44].b34 = 0;
+}
 
 
 void printAlphabet(Alphabet O) {

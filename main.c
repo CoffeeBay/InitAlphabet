@@ -99,7 +99,7 @@ void setO() {
     alphabet[43].b33 = 1;	
     alphabet[43].b34 = 0;	
 }
-
+//P
 void setP() {
     alphabet[44].b0 = 1;
     alphabet[44].b1 = 1;
@@ -140,6 +140,49 @@ void setP() {
     alphabet[44].b32 = 0;
     alphabet[44].b33 = 0;
     alphabet[44].b34 = 0;
+}
+
+//S
+void setS() {
+    alphabet[45].b0 = 0;
+    alphabet[45].b1 = 1;
+    alphabet[45].b2 = 1;
+    alphabet[45].b3 = 0;
+    alphabet[45].b4 = 0;
+    alphabet[45].b5 = 1;
+    alphabet[45].b6 = 0;
+
+    alphabet[45].b7 = 1;
+    alphabet[45].b8 = 0;
+    alphabet[45].b9 = 0;
+    alphabet[45].b10 = 1;
+    alphabet[45].b11 = 0;
+    alphabet[45].b12 = 0;
+    alphabet[45].b13 = 1;
+
+    alphabet[45].b14 = 1;
+    alphabet[45].b15 = 0;
+    alphabet[45].b16 = 0;
+    alphabet[45].b17 = 1;
+    alphabet[45].b18 = 0;
+    alphabet[45].b19 = 0;
+    alphabet[45].b20 = 1;
+
+    alphabet[45].b21 = 1;
+    alphabet[45].b22 = 0;
+    alphabet[45].b23 = 0;
+    alphabet[45].b24 = 1;
+    alphabet[45].b25 = 0;
+    alphabet[45].b26 = 0;
+    alphabet[45].b27 = 1;
+
+    alphabet[45].b28 = 0;
+    alphabet[45].b29 = 1;
+    alphabet[45].b30 = 0;
+    alphabet[45].b31 = 0;
+    alphabet[45].b32 = 1;
+    alphabet[45].b33 = 1;
+    alphabet[45].b34 = 0;
 }
 
 

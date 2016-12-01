@@ -82,8 +82,8 @@
 
 
 ## 작업 분배  
-이동규-a,b,c,d,e,f,g,h,i,j,Y,Z
-김소은-k,l,m,n,o,p,q,r,s,t
-황정현-u,v,w,x,y,z,A,B,C,D
-전유정-E,F,G,H,I,J,K,L,M,N
-남혜미-O,P,Q,R,S,T,U,V,W,X
+이동규-a,b,c,d,e,f,g,h,i,j,Y,Z  
+김소은-k,l,m,n,o,p,q,r,s,t  
+황정현-u,v,w,x,y,z,A,B,C,D  
+전유정-E,F,G,H,I,J,K,L,M,N  
+남혜미-O,P,Q,R,S,T,U,V,W,X  

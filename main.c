@@ -27,8 +27,8 @@ void seta() {
 	alphabet[0].b2 = 1;
 	alphabet[0].b3 = 1;
 	alphabet[0].b4 = 1;
-	alphabet[0].b5 = 1;
-	alphabet[0].b6 = 1;
+	alphabet[0].b5 = 0;
+	alphabet[0].b6 = 0;
 
 	alphabet[0].b7 = 0;
 	alphabet[0].b8 = 0;
@@ -43,8 +43,8 @@ void seta() {
 	alphabet[0].b16 = 1;
 	alphabet[0].b17 = 1;
 	alphabet[0].b18 = 1;
-	alphabet[0].b19 = 0;
-	alphabet[0].b20 = 0;
+	alphabet[0].b19 = 1;
+	alphabet[0].b20 = 1;
 
 	alphabet[0].b21 = 0;
 	alphabet[0].b22 = 0;

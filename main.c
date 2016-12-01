@@ -358,12 +358,50 @@ void setU() {
 
 //V
 void setV() {
-    alphabet[48].b0 = 1;
+    alphabet[49].b0 = 1;
+    alphabet[49].b1 = 1;
+    alphabet[49].b2 = 1;
+    alphabet[49].b3 = 1;
+    alphabet[49].b4 = 1;
+    alphabet[49].b5 = 0;
+    alphabet[49].b6 = 0;
+
+    alphabet[49].b7 = 0;
+    alphabet[49].b8 = 0;
+    alphabet[49].b9 = 0;
+    alphabet[49].b10 = 0;
+    alphabet[49].b11 = 1;
+    alphabet[49].b12 = 1;
+    alphabet[49].b13 = 0;
+
+    alphabet[49].b14 = 0;
+    alphabet[49].b15 = 0;
+    alphabet[49].b16 = 0;
+    alphabet[49].b17 = 0;
+    alphabet[49].b18 = 0;
+    alphabet[49].b19 = 1;
+    alphabet[49].b20 = 1;
+
+    alphabet[49].b21 = 0;
+    alphabet[49].b22 = 0;
+    alphabet[49].b23 = 0;
+    alphabet[49].b24 = 0;
+    alphabet[49].b25 = 1;
+    alphabet[49].b26 = 1;
+    alphabet[49].b27 = 0;
+
+    alphabet[49].b28 = 1;
+    alphabet[49].b29 = 1;
+    alphabet[49].b30 = 1;
+    alphabet[49].b31 = 1;
+    alphabet[49].b32 = 1;
+    alphabet[49].b33 = 0;
+    alphabet[49].b34 = 0;
 }
 
 //W
 void setW() {
-    alphabet[49].b0 = 1;
+    alphabet[50].b0 = 1;
 }
 
 //Y

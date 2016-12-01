@@ -23,36 +23,36 @@ int main() {
 // a
 void seta() {
     alphabet[0].b0 = 1;
-    alphabet[0].b1 = 0;
-    alphabet[0].b2 = 0;
-    alphabet[0].b3 = 0;
+    alphabet[0].b1 = 1;
+    alphabet[0].b2 = 1;
+    alphabet[0].b3 = 1;
     alphabet[0].b4 = 1;
     alphabet[0].b5 = 1;
     alphabet[0].b6 = 1;
 
-    alphabet[0].b7 = 1;
+    alphabet[0].b7 = 0;
     alphabet[0].b8 = 0;
     alphabet[0].b9 = 0;
-    alphabet[0].b10 = 0;
+    alphabet[0].b10 = 1;
     alphabet[0].b11 = 0;
     alphabet[0].b12 = 0;
-    alphabet[0].b13 = 1;
+    alphabet[0].b13 = 0;
 
-    alphabet[0].b14 = 1;
+    alphabet[0].b14 = 0;
     alphabet[0].b15 = 0;
-    alphabet[0].b16 = 0;
+    alphabet[0].b16 = 1;
     alphabet[0].b17 = 0;
-    alphabet[0].b18 = 0;
+    alphabet[0].b18 = 1;
     alphabet[0].b19 = 0;
-    alphabet[0].b20 = 1;
+    alphabet[0].b20 = 0;
 
-    alphabet[0].b21 = 1;
+    alphabet[0].b21 = 0;
     alphabet[0].b22 = 1;
-    alphabet[0].b23 = 1;
-    alphabet[0].b24 = 1;
-    alphabet[0].b25 = 1;
+    alphabet[0].b23 = 0;
+    alphabet[0].b24 = 0;
+    alphabet[0].b25 = 0;
     alphabet[0].b26 = 1;
-    alphabet[0].b27 = 1;
+    alphabet[0].b27 = 0;
     
 	 alphabet[0].b28 = 1;
     alphabet[0].b29 = 0;
@@ -60,7 +60,7 @@ void seta() {
     alphabet[0].b31 = 0;
     alphabet[0].b32 = 0;
     alphabet[0].b33 = 0;
-    alphabet[0].b34 = 0;
+    alphabet[0].b34 = 1;
 }
 
 

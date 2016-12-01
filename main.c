@@ -49,7 +49,7 @@ void seta() {
 	alphabet[0].b21 = 0;
 	alphabet[0].b22 = 0;
 	alphabet[0].b23 = 0;
-	alphabet[0].b24 = 1;
+	alphabet[0].b24 = 0;
 	alphabet[0].b25 = 0;
 	alphabet[0].b26 = 0;
 	alphabet[0].b27 = 0;
@@ -57,10 +57,10 @@ void seta() {
 	alphabet[0].b28 = 0;
 	alphabet[0].b29 = 0;
 	alphabet[0].b30 = 0;
-	alphabet[0].b31 = 1;
-	alphabet[0].b32 = 1;
-	alphabet[0].b33 = 1;
-	alphabet[0].b34 = 1;
+	alphabet[0].b31 = 0;
+	alphabet[0].b32 = 0;
+	alphabet[0].b33 = 0;
+	alphabet[0].b34 = 0;
 }
 
 

@@ -26,8 +26,8 @@ void seta() {
     alphabet[0].b1 = 0;
     alphabet[0].b2 = 0;
     alphabet[0].b3 = 0;
-    alphabet[0].b4 = 0;
-    alphabet[0].b5 = 0;
+    alphabet[0].b4 = 1;
+    alphabet[0].b5 = 1;
     alphabet[0].b6 = 1;
 
     alphabet[0].b7 = 1;
@@ -39,19 +39,19 @@ void seta() {
     alphabet[0].b13 = 1;
 
     alphabet[0].b14 = 1;
-    alphabet[0].b15 = 1;
-    alphabet[0].b16 = 1;
-    alphabet[0].b17 = 1;
-    alphabet[0].b18 = 1;
-    alphabet[0].b19 = 1;
+    alphabet[0].b15 = 0;
+    alphabet[0].b16 = 0;
+    alphabet[0].b17 = 0;
+    alphabet[0].b18 = 0;
+    alphabet[0].b19 = 0;
     alphabet[0].b20 = 1;
 
     alphabet[0].b21 = 1;
-    alphabet[0].b22 = 0;
-    alphabet[0].b23 = 0;
-    alphabet[0].b24 = 0;
-    alphabet[0].b25 = 0;
-    alphabet[0].b26 = 0;
+    alphabet[0].b22 = 1;
+    alphabet[0].b23 = 1;
+    alphabet[0].b24 = 1;
+    alphabet[0].b25 = 1;
+    alphabet[0].b26 = 1;
     alphabet[0].b27 = 1;
     
 	 alphabet[0].b28 = 1;
@@ -60,7 +60,7 @@ void seta() {
     alphabet[0].b31 = 0;
     alphabet[0].b32 = 0;
     alphabet[0].b33 = 0;
-    alphabet[0].b34 = 1;
+    alphabet[0].b34 = 0;
 }
 
 

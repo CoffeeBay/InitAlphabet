@@ -23,25 +23,25 @@ int main() {
 // a
 void seta() {
 	alphabet[0].b0 = 1;
-	alphabet[0].b1 = 1;
-	alphabet[0].b2 = 1;
-	alphabet[0].b3 = 1;
-	alphabet[0].b4 = 1;
-	alphabet[0].b5 = 1;
-	alphabet[0].b6 = 1;
+	alphabet[0].b1 = 0;
+	alphabet[0].b2 = 0;
+	alphabet[0].b3 = 0;
+	alphabet[0].b4 = 0;
+	alphabet[0].b5 = 0;
+	alphabet[0].b6 = 0;
 
-	alphabet[0].b7 = 0;
-	alphabet[0].b8 = 0;
-	alphabet[0].b9 = 0;
-	alphabet[0].b10 = 0;
+	alphabet[0].b7 = 1;
+	alphabet[0].b8 = 1;
+	alphabet[0].b9 = 1;
+	alphabet[0].b10 = 1;
 	alphabet[0].b11 = 1;
 	alphabet[0].b12 = 1;
-	alphabet[0].b13 = 0;
+	alphabet[0].b13 = 1;
 
 	alphabet[0].b14 = 0;
 	alphabet[0].b15 = 0;
 	alphabet[0].b16 = 0;
-	alphabet[0].b17 = 1;
+	alphabet[0].b17 = 0;
 	alphabet[0].b18 = 0;
 	alphabet[0].b19 = 0;
 	alphabet[0].b20 = 1;

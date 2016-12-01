@@ -36,7 +36,7 @@ void seta() {
 	alphabet[0].b10 = 1;
 	alphabet[0].b11 = 0;
 	alphabet[0].b12 = 0;
-	alphabet[0].b13 = 0;
+	alphabet[0].b13 = 1;
 
 	alphabet[0].b14 = 0;
 	alphabet[0].b15 = 0;
